@@ -13,6 +13,7 @@
 
 ## 📫 How to reach me:
 <p align="center">
+  ## 📫 How to reach me:
   <a href="https://www.linkedin.com/in/bach-nhu-gia-37a79b24b/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
