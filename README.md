@@ -1,4 +1,4 @@
-<img align="left" width="410" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bespokesoftwaredevelopment.com%2Fblog%2Fmake-software-engineering-laugh-best-one-liners-software-engineer-jokes%2F&psig=AOvVaw1Hy_pGzS3kPHuGi4tJCDey&ust=1732363729095000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDdgvfz74kDFQAAAAAdAAAAABAI">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bach!;" />
 </h1>
