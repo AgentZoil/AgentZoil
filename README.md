@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/bach-nhu-gia-37a79b24b/" target="_blank">
+  <a href="https://www.linkedin.com/in/gia-bach-nhu-37a79b24b/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://github.com/AgentZoil" alt="Github">
