@@ -7,7 +7,7 @@
 </p>
 
 
-- ✍ I'm recently graduated at: [University of Wollongong](https://www.uow.edu.au/?utm_source=google&utm_medium=ppc&utm_campaign=brand-2024&gad=1&gclid=CjwKCAjwloynBhBbEiwAGY25dDQn2uyBe4F6pSPgMr7JcKoZBWmUMe0kd2sVJ5jjFVfzihpdDy8E5xoC6BMQAvD_BwE&gclsrc=aw.ds) (UOW).
+- ✍ I recently graduated at: [University of Wollongong](https://www.uow.edu.au/?utm_source=google&utm_medium=ppc&utm_campaign=brand-2024&gad=1&gclid=CjwKCAjwloynBhBbEiwAGY25dDQn2uyBe4F6pSPgMr7JcKoZBWmUMe0kd2sVJ5jjFVfzihpdDy8E5xoC6BMQAvD_BwE&gclsrc=aw.ds) (UOW).
 
 - 🌱 I’m focused on **Computer Science: AI, Big Data, Software Engineer**
 
